@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Александр Ковалев](https://up.htmlacademy.ru/adaptive/16/user/841499).
-* Наставник: `Неизвестно`.
+* Наставник: `Кексобот`.
 
 ---
 
